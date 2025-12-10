@@ -30,3 +30,4 @@ Gestionar la incertidumbre propia de un proyecto innovador.
 Fomentar la colaboración y transparencia en el equipo.
 
 hola
+Esto se ha editado en la rama1
