@@ -31,4 +31,7 @@ Fomentar la colaboración y transparencia en el equipo.
 
 hola
 
+
 añadir contenido desde la rama 4 
+Esto se ha editado en la rama1
+rama1
