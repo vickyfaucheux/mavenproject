@@ -1,0 +1,32 @@
+A. Descripción del proyecto
+EventEasy es una aplicación multiplataforma diseñada para simplificar la organización de eventos personales como cenas, cumpleaños, viajes en grupo o reuniones entre amigos. Su objetivo es centralizar en un solo entorno las tareas, gastos e invitados, eliminando la necesidad de usar múltiples herramientas como WhatsApp, hojas de cálculo o notas sueltas, que suelen generar desorganización y estrés.
+
+La aplicación será accesible desde dispositivos móviles y web, con una interfaz intuitiva y funcionalidades básicas para la creación de eventos, asignación de tareas compartidas y gestión de gastos. Su arquitectura seguirá un modelo cliente-servidor con bases de datos en la nube y APIs RESTful para garantizar escalabilidad y accesibilidad multiplataforma.
+
+El equipo de desarrollo estará formado por entre 5 y 7 personas, distribuidas en los siguientes roles:
+
+Product Owner: responsable de definir y priorizar los requisitos del producto.
+
+Scrum Master: facilita el proceso ágil y elimina impedimentos.
+
+Desarrolladores: especializados en frontend, backend y bases de datos.
+
+El proyecto presenta incertidumbres que justifican un enfoque ágil:
+
+Los requisitos pueden evolucionar según el feedback de usuarios reales.
+
+La integración con APIs de pagos o calendarios puede variar durante el desarrollo.
+
+La aplicación podría escalar con nuevas funcionalidades como chat integrado o recomendaciones automáticas.
+
+Por ello, se ha optado por metodologías ágiles, que permiten:
+
+Adaptarse rápidamente a cambios en los requisitos.
+
+Incorporar retroalimentación continua de los usuarios.
+
+Gestionar la incertidumbre propia de un proyecto innovador.
+
+Fomentar la colaboración y transparencia en el equipo.
+
+hola
